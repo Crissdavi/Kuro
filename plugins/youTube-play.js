@@ -23,14 +23,14 @@ let handler = async (m, { conn, command, args, text, usedPrefix }) => {
     txt += `> *𝚅𝚒𝚜𝚒𝚝𝚊𝚜* : _${views.toLocaleString()}_\n`;
     txt += `> *𝙻𝚒𝚗𝚔* : _https://www.youtube.com/watch?v=${videoId}_\n`;
     txt += '┗─══──━══─| ✠ |─══━─═──┛ \n';
-    txt += '孫ՏᴏɴᏀᴏᴋᴜ孫';
+    txt += 'Kuroda';
 
     await conn.sendButton2(m.chat, txt, '. ', thumbnail, [
         ['MP3', `${usedPrefix}ytmp3 ${url}`],
         ['MP3DOC', `${usedPrefix}ytmp3doc ${url}`],
         ['MP4', `${usedPrefix}ytmp4 ${url}`], 
         ['MP4DOC', `${usedPrefix}ytmp4doc ${url}`]
-        ], null, [['Canal', 'https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v']], m);
+        ], null, [['Canal', 'https://whatsapp.com/channel/0029VagzzXs65yD3pXoJSp10']], m);
 
     await m.react('✅');
 };
