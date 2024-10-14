@@ -32,10 +32,10 @@ global.prems = []
 global.packname = ``
 global.author = '{\n "bot": {\n   "name": "Kuroda",\n     "author": "Criss",\n   "status_bot": "active"\n }\n}'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛo...*'
-global.botname = 'Kuroda'
-global.textbot = `Powered By Starlights Team`
+global.botname = '♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩'
+global.textbot = ` ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ`
 global.listo = '*Aqui tiene*'
-global.namechannel = '【 ✯ Starlights Team - Oficial Chanel ✰ 】'
+global.namechannel = '♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
