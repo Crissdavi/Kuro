@@ -52,16 +52,16 @@
 
 - Si la Bot tiene algún contactame ฅ^•ﻌ•^ฅ
 
-* <a href="https://wa.me/5218261000681"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/51913776697"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
 
 
-- Si quieres probar la Bot antes de instalar
+- Si quieres probar el Bot antes de instalar
 
-* <a href="https://chat.whatsapp.com/IozDcUnkCoVDBQBDNYF6GB"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/HjYvHMNz0s1EwBl8sHs2Bj"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
