@@ -20,16 +20,14 @@
 
 ---------
 
-### ⭐ Activa En Cloud Starlights
+### 🌱 Usa: Sky Plus el Ultra Plus que necesitas!! 🌱
 
-<a href="https://dash.starlights.uk"><img src="https://i.ibb.co/37T9Nnk/file.jpg" width="300" height="300" alt="Cloud Starlights"/></a>
+<a href="https://dash.skyultraplus.com"><img src="https://i.ibb.co/SynCj3P/file.jpg" width="400" height="400" alt="CorinPlus"/></a>
 
-- Dash: [dash.starlights.uk](https://dash.starlights.uk)
-- Panel: [cloud.starlights.uk](https://cloud.starlights.uk/)
-- Tutorial: [https://youtube.com](https://youtu.be/VxCnxpjGAZY)
-- Canal de WhatsApp: [【 ✯ Starlights Team - Oficial Chanel ✰ 】](https://whatsapp.com/channel/0029VaBfsIwGk1FyaqFcK91S)
-
-[![Click Aquí](https://img.shields.io/badge/Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5218261000681)
+- Dash: [Dash Sky Plus](https://dash.skyultraplus.com/)
+- Panel: [Panel Sky Plus](https://panel.skyultraplus.com/)
+- Canal de WhatsApp: [【 🌱 Sky Plus channel 🌱 】](https://whatsapp.com/channel/0029VamOVm08fewr5jix2Z3t)
+- Grupo de WhatsApp: [🌱Group Sky Plus 🌱](https://chat.whatsapp.com/K235lkvaGvlGRQKYm26xZP)
 
 ---------
 
