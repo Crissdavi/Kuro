@@ -14,14 +14,14 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   if (!age) return m.reply('🚩 La edad no puede estar vacía.')
   if (name.length >= 100) return m.reply('🚩 El nombre es demasiado largo.' )
   age = parseInt(age)
-  if (age > 100) return m.reply('👴🏻 Wow el abuelo quiere jugar al bot.')
-  if (age < 5) return m.reply('🚼  hay un abuelo bebé jsjsj. ')
+  if (age > 1000) return m.reply('👴🏻 Wow el abuelo quiere jugar al bot.')
+  if (age < 1) return m.reply('🚼  hay un abuelo bebé jsjsj. ')
   user.name = name.trim()
   user.age = age
   user.regTime = + new Date
   user.registered = true
   let sn = createHash('md5').update(m.sender).digest('hex')
-  let img = await (await fetch(`https://tinyurl.com/ynvdqh3x`)).buffer()
+  let img = await (await fetch(`https://tinyurl.com/2aakwt3s`)).buffer()
   let txt = ` –  *R E G I S T R O  -  U S E R*\n\n`
       txt += `┌  ✩  *Nombre* : ${name}\n`
       txt += `│  ✩  *Edad* : ${age} años\n`
