@@ -1,6 +1,6 @@
 <h1 align="center"> ♪  𝐓𝐞𝐚𝐦 𝐊𝐨𝐫𝐮𝐝𝐚 𝐨𝐟𝐜 ♩ </p>
 <p>
-        <img src= "https://i.ibb.co/C5DNBRH/file.jpg">
+        <img src= "https://telegra.ph/file/aff4f06b811e3f98f1b56.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
