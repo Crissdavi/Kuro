@@ -8,15 +8,15 @@ let handler = async (m, { conn, command, args }) => {
     global.db.data.users[m.sender].limit += count
     conn.reply(m.chat, `╭────═[ *R P G  -  S H O P* ]═─────⋆
 │╭───────────────···
-││✯ *Compra* : + ${count} ⭐ Estrellas 
+││✯ *Compra* : + ${count} 💴 Zenis 
 ││✯ *Costo* : -${xpperlimit * count} 💫 XP
 │╰────────────────···
 ╰───────────═┅═──────────`, m, rcanal)
   } else conn.reply(m.chat, `🚩 Lo siento, no tienes suficientes *⭐ XP* para comprar *${count} ⭐ Estrellas.*`, m, rcanal)
 }
-handler.help = ['buycoins', 'buyall']
+handler.help = ['buyzenis', 'buyall']
 handler.tags = ['rpg']
-handler.command = ['buycoins', 'buyall'] 
+handler.command = ['buyzenis', 'buyall', 'Comprar'] 
 handler.register = true 
 
 export default handler
