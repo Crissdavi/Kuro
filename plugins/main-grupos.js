@@ -6,14 +6,17 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 let txt = `*Hola!, te invito a unirte a los grupos oficiales de del Bot para convivir con la comunidad :D*
 
-1- https://chat.whatsapp.com/IozDcUnkCoVDBQBDNYF6GB
-*✰* ${group}
+1-Comunidad 𝙆𝙤𝙧𝙪𝙙𝙖 𝙤𝙛𝙘
+https://chat.whatsapp.com/IozDcUnkCoVDBQBDNYF6GB
+
+*【 ✦️  𝙆𝙤𝙧𝙪𝙙𝙖 𝙤𝙛𝙘 - Lady K's ✦️ 】* ${group}
 
 *─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ*
 
 ➠ Enlace anulado? entre aquí! 
 
 Canal :
+♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩
 *✰* ${canal}
 
 > 🚩 ${textbot}`
