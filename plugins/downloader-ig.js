@@ -1,29 +1,33 @@
-import { igdl } from "ruhend-scraper"
+import Starlights from '@StarlightsTeam/Scraper'
 
-let handler = async (m, { args, conn }) => { 
-if (!args[0]) {
-return conn.reply(m.chat, '🍟 *Ingresa un link de Instagram*', m, rcanal)}
+let handler = async (m, { conn, args, usedPrefix, command }) => {
+
+if (!args[0]) return conn.reply(m.chat, '🚩 Ingresa el enlace del vídeo de Instagram junto al comando.\n\n`Ejemplo:`\n' + `> *${usedPrefix + command}* https://www.instagram.com/p/C60xXk3J-sb/?igsh=YzljYTk1ODg3Zg==`, m, rcanal)
+
+await m.react('🕓')
+
 try {
-await m.react(rwait)
-conn.reply(m.chat, `🕒 *Enviando El Video...*`, m, {
-contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, showAdAttribution: true,
-title: packname,
-body: wm,
-previewType: 0, thumbnail: icons,
-sourceUrl: channel }}})      
-let res = await igdl(args[0])
-let data = res.data       
-for (let media of data) {
-await new Promise(resolve => setTimeout(resolve, 2000))           
-await conn.sendFile(m.chat, media.url, 'instagram.mp4', '🍟 *Tu video de instagram.*\n' + textbot, fkontak)
-}} catch {
-await m.react(error)
-conn.reply(m.chat, '🚩 Ocurrió un error.', m, fake)}}
 
-handler.command = ['instagram', 'ig']
-handler.tags = ['descargas']
-handler.help = ['instagram', 'ig']
-handler.estrellas = 1
-handler.register = true
+let { dl_url } = await Starlights.igdl(args[0])
+
+await conn.sendFile(m.chat, dl_url, 'igdl.mp4', listo, m, null, rcanal)
+
+await m.react('✅')
+
+} catch {
+
+await m.react('✖️')
+
+}}
+
+handler.help = ['instagram *<link ig>*']
+
+handler.tags = ['downloader']
+
+handler.command = /^(instagramdl|instagram|igdl|ig|instagramdl2|instagram2|igdl2|ig2|instagramdl3|instagram3|igdl3|ig3)$/i
+
+//handler.limit = 1
+
+handler.register = true 
 
 export default handler
