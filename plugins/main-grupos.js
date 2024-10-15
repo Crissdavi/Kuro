@@ -9,7 +9,7 @@ let txt = `*Hola!, te invito a unirte a los grupos oficiales del Bot para conviv
 1-𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝  𝐊𝐨𝐫𝐮𝐝𝐚 𝐨𝐟𝐜
 https://chat.whatsapp.com/IozDcUnkCoVDBQBDNYF6GB
 
-*【 ✦️  𝙆𝙤𝙧𝙪𝙙𝙖 𝙤𝙛𝙘 - Lady K's ✦️ 】*
+* ✦️ 𝐓𝐞𝐚𝐦  𝐊𝐨𝐫𝐮𝐝𝐚 𝐨𝐟𝐜  ✦️ *
 ${group}
 
 *─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ*
