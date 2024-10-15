@@ -12,7 +12,7 @@ let text = `
 ╭───═[ *Top ${len} Zenis 💴* ]═────⋆
 │╭───────────────···
 $│ Tú eres el *${usersLim.indexOf(m.sender) + 1}* de *${usersLim.length}*
-$│ ${sortedLim.slice(0, len).map(({ jid, limit }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *${limit} 💴*`).join`\n✩│ `}
+$│ ${sortedLim.slice(0, len).map(({ jid, limit }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *${limit} 💴*`).join`\n$│ `}
 │╰────────────────···
 ╰───────────═┅═──────────
 
@@ -26,7 +26,7 @@ $│ ${sortedLim.slice(0, len).map(({ jid, limit }, i) => `${i + 1}. ${participa
 ╭───═[ *Top ${len} Nivel 📈* ]═────⋆
 │╭───────────────···
 %│ Tú eres el *${usersLim.indexOf(m.sender) + 1}* de *${usersLim.length}*
-%│ ${sortedLevel.slice(0, len).map(({ jid, level }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *Nivel ${level} 📈*`).join`\n✩│ `}
+%│ ${sortedLevel.slice(0, len).map(({ jid, level }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *Nivel ${level} 📈*`).join`\n%│ `}
 │╰────────────────···
 ╰───────────═┅═──────────`.trim()
   m.reply(text, null, { mentions: conn.parseMention(text) })
