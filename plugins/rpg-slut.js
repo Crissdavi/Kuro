@@ -15,7 +15,7 @@ let user = global.db.data.users[m.sender]
 }
 
 handler.help = ['slut']
-handler.tags = ['fun']
+handler.tags = ['rpg']
 handler.command = ['slut','prost']
 handler.register = true 
 export default handler
