@@ -34,7 +34,7 @@ const defaultMenu = {
 
 ╭────═[ *I N F O  -  B O T* ]═─────⋆
 │╭───────────────···
-┴│✯ *🍬 Modo* : Público
+┴│✯ *🐢 Modo* : Público
 ✩│✯ *📚 Baileys* : Multi Device
 ✩│✯ *⏱ Tiempo Activo* : %muptime
 ┬│✯ *👤 Usuarios* : %totalreg
@@ -44,7 +44,7 @@ const defaultMenu = {
 ╭────═[ *I N F O  -  U S E R* ]═─────⋆
 │╭───────────────···
 ┴│✯ *🏷️ Nombre* : %name
-✩│✯ *⭐ Estrellas* : %limit
+✩│✯ *💴 Zenis* : %limit
 ✩│✯ *📈 Nivel* : %level
 ┬│✯ *💫 XP* : %totalexp
 │╰────────────────···
@@ -187,7 +187,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = ['menu', 'help', 'menú'] 
+handler.command = ['menu', 'help', 'menú', 'kuroda'] 
 handler.register = true 
 export default handler
 
