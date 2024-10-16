@@ -31,8 +31,8 @@ let handler = async (m, { conn, usedPrefix }) => {
   //  m.react('🔪');
 }
 
-handler.help = ['matar @tag'];
-handler.tags = ['nakano react'];
+handler.help = ['matar @tag', 'matar'];
+handler.tags = ['fun'];
 handler.command = ['matar', 'kill'];
 handler.register = true;
 handler.group = true;
